@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Clear Glass Jewelry Box",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbc%2Ff6%2Fbcf6b13acec55da050488b0e063e8104dfce50fa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_storage_bagsstorage%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "price": 19.99
+    },
+    {
+      "id": 2,
+      "name": "Twin Duvet Cover",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F23%2F06%2F2306c59b0f841479456381e996ed35649936c2cc.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_bedlinen_duvetscoversets_single%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "price": 29.99
+    },
+    {
+      "id": 3,
+      "name": "Stoneware Vase",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F8a%2F54%2F8a54d49a0d9c741dcca017dcd9012482bbd8ffb2.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_pots_vases%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "name": "Linen King/Queen Duvet Cover Set",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F3a%2Fcd%2F3acda5cbd07c813741aebc1d5cf56d86d972057e.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+      "price": 129.00
+    },
+    {
+      "id": 5,
+      "name": "Small Plant Pot with Bubbles",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fb7%2F9b%2Fb79b488e1c1dee0a4bdee13e748d013a49559bce.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_bedroom_decorations_pots%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "price": 14.99
+    },
+    {
+      "id": 6,
+      "name": "Rattan Hanging Basket",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fae%2F33%2Fae33e0bd5de5e72a6a18f48953708bfc16fd4356.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_pots%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "price": 17.99
+    },
+    {
+      "id": 7,
+      "name": "Round Jute Floor Mat",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F51%2Fb0%2F51b0ee1860ec988b322ce1aa9e46965819599713.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_carpets%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "price": 59.99
+    },
+    {
+      "id": 8,
+      "name": "Large Plant Pot on Pedestal",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fbe%2Fbb%2Fbebbb29c66a5e8f8311ad24a23a300b48179ff10.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bhome_decorations_pots%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+      "price": 34.99
+    },
+    {
+      "id": 9,
+      "name": "Terry Bathrobe",
+      "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F06%2Fdb%2F06dbceaf4817510217675b2465f8f1ab9ac53542.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url[file:/product/main]",
+      "price": 49.99
+    }
+  ]
+  
