@@ -60,8 +60,8 @@ export const CartProvider = ({children}) => {
 
     useEffect(()=> {
         const total = cartItems.reduce((acc, item) => acc+(item.quantity*item.price),0.0)
-        const parseTotal = Number.parseFloat(total).toFixed(2)
-        setCheckoutTotal(parseTotal)
+        
+        setCheckoutTotal(total)
 
     }, [cartItems])
 

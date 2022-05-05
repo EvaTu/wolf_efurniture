@@ -6,7 +6,7 @@ import CheckOutItem from "../../components/checkout-item/checkout-item.component
 
 const CheckOut = () => {
     const {cartItems, checkoutTotal} = useContext(CartContext)
-
+    const parseTotal = Number.parseFloat(checkoutTotal).toFixed(2)
 
     return(
         <div className="checkout-container">
@@ -30,7 +30,7 @@ const CheckOut = () => {
                 {cartItems.map((item) =>
                 <CheckOutItem item={item} />
                 )}
-           <span className="total">Total: ${checkoutTotal}</span>
+           <span className="total">Total: ${parseTotal}</span>
         </div>
     )
 }
